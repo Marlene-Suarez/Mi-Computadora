@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9faf6;
+    margin: 20px;
+}
+
+h1 {
+    color: #100111;
+}
+
+ul {
+    list-style-type: circle;
+    padding: 0;
+}
+
+li {
+    background-color: #efb7ea;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 10px;
+}
